@@ -51,7 +51,8 @@ This project explores sales, customer behavior, regional performance, and produc
 
 ## 📌 Visuals
 
-📸 *Screenshots of Power BI dashboards and Excel pivot charts can be added here.*
+![image](https://github.com/user-attachments/assets/399ede67-619b-4b9a-90b1-68eacfbc8333)
+
 
 ---
 
@@ -60,14 +61,5 @@ This project explores sales, customer behavior, regional performance, and produc
 - Built strong skills in data cleaning, business analysis, and visualization.
 - Understood how data supports decisions in **inventory management**, **marketing**, and **product strategy**.
 - Improved my ability to extract insights that align with **real-world business objectives**.
-
 ---
 
-## ✅ Next Steps
-
-- Apply similar analysis to real-world datasets (e.g., trade data, manufacturing supply chains).
-- Automate parts of the analysis using Python and scheduled Excel reports.
-
----
-
-## 📎 File Structure
