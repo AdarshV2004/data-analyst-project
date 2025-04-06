@@ -47,12 +47,6 @@ This project explores sales, customer behavior, regional performance, and produc
    - Top reps closed deals **above the 75th percentile** in terms of revenue.
    - B2B customers resulted in larger order volumes.
 
----
-
-## 📌 Visuals
-
-![image](https://github.com/user-attachments/assets/399ede67-619b-4b9a-90b1-68eacfbc8333)
-
 
 ---
 
